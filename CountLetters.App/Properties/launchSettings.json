@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CountLetters.App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Cbb acCA\""
+    }
+  }
+}
